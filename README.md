@@ -1,9 +1,6 @@
-# 科学上网
-SSR & V2ray 等免费账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。
-
 一、SSR
 
-(一)SSR免费节点订阅地址(直接复制链接地址粘贴到订阅地址里即可)
+(一)SSR
 
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
@@ -34,7 +31,7 @@ http://ss.pythonic.life/full/subscribe
 
 
 
-(二)免费SSR账号
+(二)SSR账号
 推荐网站1：https://www.youneed.win/free-ssr
 
 推荐网站2：http://nulastudio.org/Freedom/
@@ -54,7 +51,7 @@ http://ss.pythonic.life/full/subscribe
 
 二、V2ray
 
-(一)v2ray免费节点订阅地址(直接复制链接地址粘贴到订阅地址里即可)
+(一)v2ray
 
 二爷：https://jiang.netlify.com/
 
@@ -68,7 +65,7 @@ https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt
 
 https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
 
-(二)V2ary免费节点
+(二)V2ary
 
 1、推荐网站
 
@@ -97,7 +94,7 @@ https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
 推荐网站12：https://jichangdaquan.com/node/429.html
 
 
-三、proxy代理科学上网
+三、proxy代理
 
 (一)proxy代理网站：
 http://free-proxy.cz/en/
